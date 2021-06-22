@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'eignt_bit';
+  src: url(./font/eightBit.ttf) format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+.App {
+font-size: 50px;
+font-family: eignt_bit;
+}
